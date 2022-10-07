@@ -40,7 +40,7 @@ Les couleurs utilisées seront :
 
 ### Wireframe:
 
-![wireframe-low](/assets/readme/wireframe-low.png)   
+![wireframe-low](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/KBryant8.jpg/252px-KBryant8.jpg)   
 ![wireframe-middle](/assets/readme/wireframe-middle.png)   
 ![wireframe-hight](/assets/readme/wireframe-hight.png)
 
